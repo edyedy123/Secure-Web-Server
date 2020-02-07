@@ -1,5 +1,6 @@
 # Secure-Web-Server
 Seneca Project
+
 Only the PHP web site code is in this repo.
 
 This assignment required us to create a secure web application using a programming language of our choice. The Web application needed to have a nice home page with 2 links. Each link prompted the user to log in to gain access to one of two simple data search pages. These pages searched for relevant data where the user can put in various simple form based queries, populating the list from an sql database.
